@@ -40,6 +40,15 @@
    - 展覧会の作品リストから所蔵元が公開しているデータベースにリンク (サイトで画像は保持しない)
 
 ## 設計
+- [ ] Show Globe
+   - [ ] OSM
+- [ ] Add 1 Museum with 1 Exhibit
+- [ ] Add Search
+- [ ] Add /api/checkins, /api/favorites
+- [ ] Login
+   - [ ] Passkey
+   - [ ] Google OAuth?
+- [ ] Multiple Language?
 
 - まずはHTML+JS+RESTでMVP
 - 展覧会単位でミュージアムの訪問歴を記録できる: 世界対応 , ログイン，美しいデザイン，個人開発ではなく法人で  
